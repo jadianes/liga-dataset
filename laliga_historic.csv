@@ -1,0 +1,1403 @@
+season,points,name,rank,round
+1928,23,F.C. Barcelona,1,18
+1928,23,Real Madrid C.F.,2,18
+1928,20,Athletic Club,3,18
+1928,20,Real Sociedad,4,18
+1928,19,Arenas de Guecho,5,18
+1928,18,At. de Madrid,6,18
+1928,18,R.C.D. Espanyol,7,18
+1928,16,C.D. Europa,8,18
+1928,12,Real Unión Club,9,18
+1928,9,Real Racing Club,10,18
+1939,29,At. de Madrid,1,22
+1939,28,Sevilla F.C.,2,22
+1939,26,Athletic Club,3,22
+1939,25,Real Madrid C.F.,4,22
+1939,24,R.C.D. Espanyol,5,22
+1939,23,Hércules C.F.,6,22
+1939,21,Real Zaragoza CD,7,22
+1939,21,Valencia C.F.,8,22
+1939,19,F.C. Barcelona,9,22
+1939,19,RC Celta de Vigo,10,22
+1939,16,Real Betis B. S.,11,22
+1939,13,Real Racing Club,12,22
+1932,28,Real Madrid C.F.,1,18
+1932,26,Athletic Club,2,18
+1932,22,R.C.D. Espanyol,3,18
+1932,19,F.C. Barcelona,4,18
+1932,17,Real Betis B. S.,5,18
+1932,15,Real Sociedad,6,18
+1932,14,Arenas de Guecho,7,18
+1932,14,Real Racing Club,8,18
+1932,13,Valencia C.F.,9,18
+1932,12,C.D. Alavés,10,18
+1933,24,Athletic Club,1,18
+1933,22,Real Madrid C.F.,2,18
+1933,19,Real Racing Club,3,18
+1933,19,Real Betis B. S.,4,18
+1933,18,Real Sociedad,5,18
+1933,18,Real Oviedo C.F.,6,18
+1933,17,Valencia C.F.,7,18
+1933,17,R.C.D. Espanyol,8,18
+1933,16,F.C. Barcelona,9,18
+1933,10,Arenas de Guecho,10,18
+1935,31,Athletic Club,1,22
+1935,29,Real Madrid C.F.,2,22
+1935,28,Real Oviedo C.F.,3,22
+1935,27,Real Racing Club,4,22
+1935,24,F.C. Barcelona,5,22
+1935,24,Hércules C.F.,6,22
+1935,20,Real Betis B. S.,7,22
+1935,19,Valencia C.F.,8,22
+1935,17,R.C.D. Espanyol,9,22
+1935,16,Sevilla F.C.,10,22
+1935,15,At. de Madrid,11,22
+1935,14,C. At. Osasuna,12,22
+1934,34,Real Betis B. S.,1,22
+1934,33,Real Madrid C.F.,2,22
+1934,26,Real Oviedo C.F.,3,22
+1934,25,Athletic Club,4,22
+1934,24,Sevilla F.C.,5,22
+1934,24,F.C. Barcelona,6,22
+1934,21,At. de Madrid,7,22
+1934,20,R.C.D. Espanyol,8,22
+1934,20,Valencia C.F.,9,22
+1934,17,Real Racing Club,10,22
+1934,11,Real Sociedad,11,22
+1934,9,Arenas de Guecho,12,22
+1931,28,Real Madrid C.F.,1,18
+1931,25,Athletic Club,2,18
+1931,24,F.C. Barcelona,3,18
+1931,20,Real Racing Club,4,18
+1931,17,Arenas de Guecho,5,18
+1931,15,R.C.D. Espanyol,6,18
+1931,15,Valencia C.F.,7,18
+1931,14,Real Sociedad,8,18
+1931,11,C.D. Alavés,9,18
+1931,11,Real Unión Club,10,18
+1929,30,Athletic Club,1,18
+1929,23,F.C. Barcelona,2,18
+1929,20,Arenas de Guecho,3,18
+1929,20,R.C.D. Espanyol,4,18
+1929,17,Real Madrid C.F.,5,18
+1929,17,Real Unión Club,6,18
+1929,14,Real Sociedad,7,18
+1929,14,Real Racing Club,8,18
+1929,13,C.D. Europa,9,18
+1929,12,At. de Madrid,10,18
+1950,40,At. de Madrid,1,30
+1950,38,Sevilla F.C.,2,30
+1950,37,Valencia C.F.,3,30
+1950,35,F.C. Barcelona,4,30
+1950,35,Real Sociedad,5,30
+1950,33,Real Valladolid,6,30
+1950,33,Athletic Club,7,30
+1950,33,RC Celta de Vigo,8,30
+1950,31,Real Madrid C.F.,9,30
+1950,30,Real Racing Club,10,30
+1950,30,R.C. Deportivo,11,30
+1950,30,R.C.D. Espanyol,12,30
+1950,29,C.D. Málaga,13,30
+1950,19,Real Murcia C.F.,14,30
+1950,14,C.D. Alcoyano,15,30
+1950,13,U.E. Lleida,16,30
+1930,22,Athletic Club,1,18
+1930,22,Real Racing Club,2,18
+1930,22,Real Sociedad,3,18
+1930,21,F.C. Barcelona,4,18
+1930,18,Arenas de Guecho,5,18
+1930,18,Real Madrid C.F.,6,18
+1930,16,Real Unión Club,7,18
+1930,14,C.D. Alavés,8,18
+1930,14,R.C.D. Espanyol,9,18
+1930,13,C.D. Europa,10,18
+1951,43,F.C. Barcelona,1,30
+1951,40,Athletic Club,2,30
+1951,38,Real Madrid C.F.,3,30
+1951,37,At. de Madrid,4,30
+1951,35,Valencia C.F.,5,30
+1951,32,Sevilla F.C.,6,30
+1951,32,R.C.D. Espanyol,7,30
+1951,29,Real Valladolid,8,30
+1951,27,RC Celta de Vigo,9,30
+1951,26,Real Sociedad,10,30
+1951,25,R.C. Deportivo,11,30
+1951,25,Real Zaragoza CD,12,30
+1951,25,Real Racing Club,13,30
+1951,25,Real S. de Gijón,14,30
+1951,22,U.D. Las Palmas,15,30
+1951,19,At. Tetuan,16,30
+1949,33,At. de Madrid,1,26
+1949,32,R.C. Deportivo,2,26
+1949,31,Valencia C.F.,3,26
+1949,31,Real Madrid C.F.,4,26
+1949,29,F.C. Barcelona,5,26
+1949,29,Athletic Club,6,26
+1949,28,RC Celta de Vigo,7,26
+1949,27,Real Sociedad,8,26
+1949,25,Real Valladolid,9,26
+1949,25,Sevilla F.C.,10,26
+1949,22,R.C.D. Espanyol,11,26
+1949,21,C.D. Málaga,12,26
+1949,16,Club Gimnàstic,13,26
+1949,15,Real Oviedo C.F.,14,26
+1948,37,F.C. Barcelona,1,26
+1948,35,Valencia C.F.,2,26
+1948,34,Real Madrid C.F.,3,26
+1948,34,At. de Madrid,4,26
+1948,30,Real Oviedo C.F.,5,26
+1948,24,Athletic Club,6,26
+1948,24,R.C.D. Espanyol,7,26
+1948,23,Sevilla F.C.,8,26
+1948,23,Club Gimnàstic,9,26
+1948,22,R.C. Deportivo,10,26
+1948,22,RC Celta de Vigo,11,26
+1948,22,Real Valladolid,12,26
+1948,21,C.D. Alcoyano,13,26
+1948,13,C.D. Sabadell,14,26
+2013,90,At. de Madrid,1,38
+2013,87,F.C. Barcelona,2,38
+2013,87,Real Madrid C.F.,3,38
+2013,70,Athletic Club,4,38
+2013,63,Sevilla F.C.,5,38
+2013,59,Villarreal C.F.,6,38
+2013,59,Real Sociedad,7,38
+2013,49,Valencia C.F.,8,38
+2013,49,RC Celta de Vigo,9,38
+2013,48,Levante U.D.,10,38
+2013,45,Málaga C.F.,11,38
+2013,43,Rayo Vallecano,12,38
+2013,42,Getafe C.F.,13,38
+2013,42,R.C.D. Espanyol,14,38
+2013,41,Granada C.F.,15,38
+2013,40,Elche C.F.,16,38
+2013,40,U.D. Almería,17,38
+2013,39,C. At. Osasuna,18,38
+2013,36,Real Valladolid,19,38
+2013,25,Real Betis B. S.,20,38
+2012,100,F.C. Barcelona,1,38
+2012,85,Real Madrid C.F.,2,38
+2012,76,At. de Madrid,3,38
+2012,66,Real Sociedad,4,38
+2012,65,Valencia C.F.,5,38
+2012,57,Málaga C.F.,6,38
+2012,56,Real Betis B. S.,7,38
+2012,53,Rayo Vallecano,8,38
+2012,50,Sevilla F.C.,9,38
+2012,47,Getafe C.F.,10,38
+2012,46,Levante U.D.,11,38
+2012,45,Athletic Club,12,38
+2012,44,R.C.D. Espanyol,13,38
+2012,43,Real Valladolid,14,38
+2012,42,Granada C.F.,15,38
+2012,39,C. At. Osasuna,16,38
+2012,37,RC Celta de Vigo,17,38
+2012,36,R.C.D. Mallorca,18,38
+2012,35,R.C. Deportivo,19,38
+2012,34,Real Zaragoza CD,20,38
+2011,100,Real Madrid C.F.,1,38
+2011,91,F.C. Barcelona,2,38
+2011,61,Valencia C.F.,3,38
+2011,58,Málaga C.F.,4,38
+2011,56,At. de Madrid,5,38
+2011,55,Levante U.D.,6,38
+2011,54,C. At. Osasuna,7,38
+2011,52,R.C.D. Mallorca,8,38
+2011,50,Sevilla F.C.,9,38
+2011,49,Athletic Club,10,38
+2011,47,Getafe C.F.,11,38
+2011,47,Real Sociedad,12,38
+2011,47,Real Betis B. S.,13,38
+2011,46,R.C.D. Espanyol,14,38
+2011,43,Rayo Vallecano,15,38
+2011,43,Real Zaragoza CD,16,38
+2011,42,Granada C.F.,17,38
+2011,41,Villarreal C.F.,18,38
+2011,37,Real S. de Gijón,19,38
+2011,27,Real Racing Club,20,38
+2010,96,F.C. Barcelona,1,38
+2010,92,Real Madrid C.F.,2,38
+2010,71,Valencia C.F.,3,38
+2010,62,Villarreal C.F.,4,38
+2010,58,Sevilla F.C.,5,38
+2010,58,Athletic Club,6,38
+2010,58,At. de Madrid,7,38
+2010,49,R.C.D. Espanyol,8,38
+2010,47,C. At. Osasuna,9,38
+2010,47,Real S. de Gijón,10,38
+2010,46,Málaga C.F.,11,38
+2010,46,Real Racing Club,12,38
+2010,45,Real Zaragoza CD,13,38
+2010,45,Levante U.D.,14,38
+2010,45,Real Sociedad,15,38
+2010,44,Getafe C.F.,16,38
+2010,44,R.C.D. Mallorca,17,38
+2010,43,R.C. Deportivo,18,38
+2010,35,Hércules C.F.,19,38
+2010,30,U.D. Almería,20,38
+2009,99,F.C. Barcelona,1,38
+2009,96,Real Madrid C.F.,2,38
+2009,71,Valencia C.F.,3,38
+2009,63,Sevilla F.C.,4,38
+2009,62,R.C.D. Mallorca,5,38
+2009,58,Getafe C.F.,6,38
+2009,56,Villarreal C.F.,7,38
+2009,54,Athletic Club,8,38
+2009,47,At. de Madrid,9,38
+2009,47,R.C. Deportivo,10,38
+2009,44,R.C.D. Espanyol,11,38
+2009,43,C. At. Osasuna,12,38
+2009,42,U.D. Almería,13,38
+2009,41,Real Zaragoza CD,14,38
+2009,40,Real S. de Gijón,15,38
+2009,39,Real Racing Club,16,38
+2009,37,Málaga C.F.,17,38
+2009,36,Real Valladolid,18,38
+2009,36,C.D. Tenerife,19,38
+2009,34,Xerez C.D.,20,38
+2008,87,F.C. Barcelona,1,38
+2008,78,Real Madrid C.F.,2,38
+2008,70,Sevilla F.C.,3,38
+2008,67,At. de Madrid,4,38
+2008,65,Villarreal C.F.,5,38
+2008,62,Valencia C.F.,6,38
+2008,58,R.C. Deportivo,7,38
+2008,55,Málaga C.F.,8,38
+2008,51,R.C.D. Mallorca,9,38
+2008,47,R.C.D. Espanyol,10,38
+2008,46,U.D. Almería,11,38
+2008,46,Real Racing Club,12,38
+2008,44,Athletic Club,13,38
+2008,43,Real S. de Gijón,14,38
+2008,43,C. At. Osasuna,15,38
+2008,43,Real Valladolid,16,38
+2008,42,Getafe C.F.,17,38
+2008,42,Real Betis B. S.,18,38
+2008,35,C.D. Numancia,19,38
+2008,33,R.C.R. de Huelva,20,38
+2007,85,Real Madrid C.F.,1,38
+2007,77,Villarreal C.F.,2,38
+2007,67,F.C. Barcelona,3,38
+2007,64,At. de Madrid,4,38
+2007,64,Sevilla F.C.,5,38
+2007,60,Real Racing Club,6,38
+2007,59,R.C.D. Mallorca,7,38
+2007,52,U.D. Almería,8,38
+2007,52,R.C. Deportivo,9,38
+2007,51,Valencia C.F.,10,38
+2007,50,Athletic Club,11,38
+2007,48,R.C.D. Espanyol,12,38
+2007,47,Real Betis B. S.,13,38
+2007,47,Getafe C.F.,14,38
+2007,45,Real Valladolid,15,38
+2007,44,R.C.R. de Huelva,16,38
+2007,43,C. At. Osasuna,17,38
+2007,42,Real Zaragoza CD,18,38
+2007,30,Real Murcia C.F.,19,38
+2007,26,Levante U.D.,20,38
+2006,76,Real Madrid C.F.,1,38
+2006,76,F.C. Barcelona,2,38
+2006,71,Sevilla F.C.,3,38
+2006,66,Valencia C.F.,4,38
+2006,62,Villarreal C.F.,5,38
+2006,60,Real Zaragoza CD,6,38
+2006,60,At. de Madrid,7,38
+2006,54,R.C.R. de Huelva,8,38
+2006,52,Getafe C.F.,9,38
+2006,50,Real Racing Club,10,38
+2006,49,R.C.D. Espanyol,11,38
+2006,49,R.C.D. Mallorca,12,38
+2006,47,R.C. Deportivo,13,38
+2006,46,C. At. Osasuna,14,38
+2006,42,Levante U.D.,15,38
+2006,40,Real Betis B. S.,16,38
+2006,40,Athletic Club,17,38
+2006,39,RC Celta de Vigo,18,38
+2006,35,Real Sociedad,19,38
+2006,28,Club Gimnàstic,20,38
+2005,82,F.C. Barcelona,1,38
+2005,70,Real Madrid C.F.,2,38
+2005,69,Valencia C.F.,3,38
+2005,68,C. At. Osasuna,4,38
+2005,68,Sevilla F.C.,5,38
+2005,64,RC Celta de Vigo,6,38
+2005,57,Villarreal C.F.,7,38
+2005,55,R.C. Deportivo,8,38
+2005,54,Getafe C.F.,9,38
+2005,52,At. de Madrid,10,38
+2005,46,Real Zaragoza CD,11,38
+2005,45,Athletic Club,12,38
+2005,43,R.C.D. Mallorca,13,38
+2005,42,Real Betis B. S.,14,38
+2005,41,R.C.D. Espanyol,15,38
+2005,40,Real Sociedad,16,38
+2005,40,Real Racing Club,17,38
+2005,39,C.D. Alavés,18,38
+2005,36,Cádiz C.F.,19,38
+2005,24,Málaga C.F.,20,38
+2004,84,F.C. Barcelona,1,38
+2004,80,Real Madrid C.F.,2,38
+2004,65,Villarreal C.F.,3,38
+2004,62,Real Betis B. S.,4,38
+2004,61,R.C.D. Espanyol,5,38
+2004,60,Sevilla F.C.,6,38
+2004,58,Valencia C.F.,7,38
+2004,51,R.C. Deportivo,8,38
+2004,51,Athletic Club,9,38
+2004,51,Málaga C.F.,10,38
+2004,50,At. de Madrid,11,38
+2004,50,Real Zaragoza CD,12,38
+2004,47,Getafe C.F.,13,38
+2004,47,Real Sociedad,14,38
+2004,46,C. At. Osasuna,15,38
+2004,44,Real Racing Club,16,38
+2004,39,R.C.D. Mallorca,17,38
+2004,37,Levante U.D.,18,38
+2004,29,C.D. Numancia,19,38
+2004,28,Albacete Balomp.,20,38
+2003,77,Valencia C.F.,1,38
+2003,72,F.C. Barcelona,2,38
+2003,71,R.C. Deportivo,3,38
+2003,70,Real Madrid C.F.,4,38
+2003,56,Athletic Club,5,38
+2003,55,Sevilla F.C.,6,38
+2003,55,At. de Madrid,7,38
+2003,54,Villarreal C.F.,8,38
+2003,52,Real Betis B. S.,9,38
+2003,51,Málaga C.F.,10,38
+2003,51,R.C.D. Mallorca,11,38
+2003,48,Real Zaragoza CD,12,38
+2003,48,C. At. Osasuna,13,38
+2003,47,Albacete Balomp.,14,38
+2003,46,Real Sociedad,15,38
+2003,43,Real Racing Club,16,38
+2003,43,R.C.D. Espanyol,17,38
+2003,41,Real Valladolid,18,38
+2003,39,RC Celta de Vigo,19,38
+2003,26,Real Murcia C.F.,20,38
+2002,78,Real Madrid C.F.,1,38
+2002,76,Real Sociedad,2,38
+2002,72,R.C. Deportivo,3,38
+2002,61,RC Celta de Vigo,4,38
+2002,60,Valencia C.F.,5,38
+2002,56,F.C. Barcelona,6,38
+2002,55,Athletic Club,7,38
+2002,54,Real Betis B. S.,8,38
+2002,52,R.C.D. Mallorca,9,38
+2002,50,Sevilla F.C.,10,38
+2002,47,C. At. Osasuna,11,38
+2002,47,At. de Madrid,12,38
+2002,46,Málaga C.F.,13,38
+2002,46,Real Valladolid,14,38
+2002,45,Villarreal C.F.,15,38
+2002,44,Real Racing Club,16,38
+2002,43,R.C.D. Espanyol,17,38
+2002,36,R.C.R. de Huelva,18,38
+2002,35,C.D. Alavés,19,38
+2002,32,Rayo Vallecano,20,38
+2001,75,Valencia C.F.,1,38
+2001,68,R.C. Deportivo,2,38
+2001,66,Real Madrid C.F.,3,38
+2001,64,F.C. Barcelona,4,38
+2001,60,RC Celta de Vigo,5,38
+2001,59,Real Betis B. S.,6,38
+2001,54,C.D. Alavés,7,38
+2001,53,Sevilla F.C.,8,38
+2001,53,Athletic Club,9,38
+2001,53,Málaga C.F.,10,38
+2001,49,Rayo Vallecano,11,38
+2001,48,Real Valladolid,12,38
+2001,47,Real Sociedad,13,38
+2001,47,R.C.D. Espanyol,14,38
+2001,43,Villarreal C.F.,15,38
+2001,43,R.C.D. Mallorca,16,38
+2001,42,C. At. Osasuna,17,38
+2001,40,U.D. Las Palmas,18,38
+2001,38,C.D. Tenerife,19,38
+2001,37,Real Zaragoza CD,20,38
+2000,80,Real Madrid C.F.,1,38
+2000,73,R.C. Deportivo,2,38
+2000,71,R.C.D. Mallorca,3,38
+2000,63,F.C. Barcelona,4,38
+2000,63,Valencia C.F.,5,38
+2000,59,RC Celta de Vigo,6,38
+2000,57,Villarreal C.F.,7,38
+2000,56,Málaga C.F.,8,38
+2000,50,R.C.D. Espanyol,9,38
+2000,49,C.D. Alavés,10,38
+2000,46,U.D. Las Palmas,11,38
+2000,43,Athletic Club,12,38
+2000,43,Real Sociedad,13,38
+2000,43,Rayo Vallecano,14,38
+2000,42,C. At. Osasuna,15,38
+2000,42,Real Valladolid,16,38
+2000,42,Real Zaragoza CD,17,38
+2000,41,Real Oviedo C.F.,18,38
+2000,39,Real Racing Club,19,38
+2000,39,C.D. Numancia,20,38
+1999,69,R.C. Deportivo,1,38
+1999,64,F.C. Barcelona,2,38
+1999,64,Valencia C.F.,3,38
+1999,63,Real Zaragoza CD,4,38
+1999,62,Real Madrid C.F.,5,38
+1999,61,C.D. Alavés,6,38
+1999,53,RC Celta de Vigo,7,38
+1999,53,Real Valladolid,8,38
+1999,52,Rayo Vallecano,9,38
+1999,51,R.C.D. Mallorca,10,38
+1999,50,Athletic Club,11,38
+1999,48,Málaga C.F.,12,38
+1999,47,Real Sociedad,13,38
+1999,47,R.C.D. Espanyol,14,38
+1999,46,Real Racing Club,15,38
+1999,45,Real Oviedo C.F.,16,38
+1999,45,C.D. Numancia,17,38
+1999,42,Real Betis B. S.,18,38
+1999,38,At. de Madrid,19,38
+1999,28,Sevilla F.C.,20,38
+1998,79,F.C. Barcelona,1,38
+1998,68,Real Madrid C.F.,2,38
+1998,66,R.C.D. Mallorca,3,38
+1998,65,Valencia C.F.,4,38
+1998,64,RC Celta de Vigo,5,38
+1998,63,R.C. Deportivo,6,38
+1998,61,R.C.D. Espanyol,7,38
+1998,60,Athletic Club,8,38
+1998,57,Real Zaragoza CD,9,38
+1998,54,Real Sociedad,10,38
+1998,49,Real Betis B. S.,11,38
+1998,48,Real Valladolid,12,38
+1998,46,At. de Madrid,13,38
+1998,45,Real Oviedo C.F.,14,38
+1998,42,Real Racing Club,15,38
+1998,40,C.D. Alavés,16,38
+1998,39,C.F. Extremadura,17,38
+1998,36,Villarreal C.F.,18,38
+1998,34,C.D. Tenerife,19,38
+1998,27,U.D. Salamanca,20,38
+1997,74,F.C. Barcelona,1,38
+1997,65,Athletic Club,2,38
+1997,63,Real Sociedad,3,38
+1997,63,Real Madrid C.F.,4,38
+1997,60,R.C.D. Mallorca,5,38
+1997,60,RC Celta de Vigo,6,38
+1997,60,At. de Madrid,7,38
+1997,59,Real Betis B. S.,8,38
+1997,55,Valencia C.F.,9,38
+1997,53,R.C.D. Espanyol,10,38
+1997,50,Real Valladolid,11,38
+1997,49,R.C. Deportivo,12,38
+1997,48,Real Zaragoza CD,13,38
+1997,45,Real Racing Club,14,38
+1997,45,U.D. Salamanca,15,38
+1997,45,C.D. Tenerife,16,38
+1997,44,S.D. Compostela,17,38
+1997,40,Real Oviedo C.F.,18,38
+1997,39,Mérida C.P.,19,38
+1997,13,Real S. de Gijón,20,38
+1996,92,Real Madrid C.F.,1,42
+1996,90,F.C. Barcelona,2,42
+1996,77,R.C. Deportivo,3,42
+1996,77,Real Betis B. S.,4,42
+1996,71,At. de Madrid,5,42
+1996,64,Athletic Club,6,42
+1996,64,Real Valladolid,7,42
+1996,63,Real Sociedad,8,42
+1996,56,C.D. Tenerife,9,42
+1996,56,Valencia C.F.,10,42
+1996,53,S.D. Compostela,11,42
+1996,51,R.C.D. Espanyol,12,42
+1996,50,Real Racing Club,13,42
+1996,50,Real Zaragoza CD,14,42
+1996,50,Real S. de Gijón,15,42
+1996,49,RC Celta de Vigo,16,42
+1996,48,Real Oviedo C.F.,17,42
+1996,45,Rayo Vallecano,18,42
+1996,44,C.F. Extremadura,19,42
+1996,43,Sevilla F.C.,20,42
+1996,41,Hércules C.F.,21,42
+1996,33,C.D. Logroñés,22,42
+1995,87,At. de Madrid,1,42
+1995,83,Valencia C.F.,2,42
+1995,80,F.C. Barcelona,3,42
+1995,74,R.C.D. Espanyol,4,42
+1995,72,C.D. Tenerife,5,42
+1995,70,Real Madrid C.F.,6,42
+1995,63,Real Sociedad,7,42
+1995,62,Real Betis B. S.,8,42
+1995,61,R.C. Deportivo,9,42
+1995,59,S.D. Compostela,10,42
+1995,52,RC Celta de Vigo,11,42
+1995,48,Sevilla F.C.,12,42
+1995,48,Real Zaragoza CD,13,42
+1995,48,Real Oviedo C.F.,14,42
+1995,48,Athletic Club,15,42
+1995,47,Real Valladolid,16,42
+1995,47,Real Racing Club,17,42
+1995,46,Real S. de Gijón,18,42
+1995,44,Rayo Vallecano,19,42
+1995,42,Albacete Balomp.,20,42
+1995,42,Mérida C.P.,21,42
+1995,33,U.D. Salamanca,22,42
+1994,55,Real Madrid C.F.,1,38
+1994,51,R.C. Deportivo,2,38
+1994,46,Real Betis B. S.,3,38
+1994,46,F.C. Barcelona,4,38
+1994,43,Sevilla F.C.,5,38
+1994,43,R.C.D. Espanyol,6,38
+1994,43,Real Zaragoza CD,7,38
+1994,42,Athletic Club,8,38
+1994,39,Real Oviedo C.F.,9,38
+1994,38,Valencia C.F.,10,38
+1994,38,Real Sociedad,11,38
+1994,36,Real Racing Club,12,38
+1994,36,RC Celta de Vigo,13,38
+1994,35,At. de Madrid,14,38
+1994,35,C.D. Tenerife,15,38
+1994,34,S.D. Compostela,16,38
+1994,34,Albacete Balomp.,17,38
+1994,28,Real S. de Gijón,18,38
+1994,25,Real Valladolid,19,38
+1994,13,C.D. Logroñés,20,38
+1993,56,F.C. Barcelona,1,38
+1993,56,R.C. Deportivo,2,38
+1993,46,Real Zaragoza CD,3,38
+1993,45,Real Madrid C.F.,4,38
+1993,43,Athletic Club,5,38
+1993,42,Sevilla F.C.,6,38
+1993,40,Valencia C.F.,7,38
+1993,38,Real Racing Club,8,38
+1993,37,Real Oviedo C.F.,9,38
+1993,36,C.D. Tenerife,10,38
+1993,36,Real Sociedad,11,38
+1993,35,At. de Madrid,12,38
+1993,35,Albacete Balomp.,13,38
+1993,35,Real S. de Gijón,14,38
+1993,33,RC Celta de Vigo,15,38
+1993,33,C.D. Logroñés,16,38
+1993,31,Rayo Vallecano,17,38
+1993,30,Real Valladolid,18,38
+1993,27,U.E. Lleida,19,38
+1993,26,C. At. Osasuna,20,38
+1992,58,F.C. Barcelona,1,38
+1992,57,Real Madrid C.F.,2,38
+1992,54,R.C. Deportivo,3,38
+1992,48,Valencia C.F.,4,38
+1992,44,C.D. Tenerife,5,38
+1992,43,At. de Madrid,6,38
+1992,43,Sevilla F.C.,7,38
+1992,40,Athletic Club,8,38
+1992,35,Real Zaragoza CD,9,38
+1992,34,C. At. Osasuna,10,38
+1992,34,RC Celta de Vigo,11,38
+1992,34,Real Sociedad,12,38
+1992,34,Real S. de Gijón,13,38
+1992,33,Rayo Vallecano,14,38
+1992,33,C.D. Logroñés,15,38
+1992,32,Real Oviedo C.F.,16,38
+1992,31,Albacete Balomp.,17,38
+1992,29,R.C.D. Espanyol,18,38
+1992,22,Cádiz C.F.,19,38
+1992,22,Real Burgos C.F.,20,38
+1991,55,F.C. Barcelona,1,38
+1991,54,Real Madrid C.F.,2,38
+1991,53,At. de Madrid,3,38
+1991,47,Valencia C.F.,4,38
+1991,44,Real Sociedad,5,38
+1991,41,Real Zaragoza CD,6,38
+1991,40,Albacete Balomp.,7,38
+1991,38,Real S. de Gijón,8,38
+1991,37,Real Burgos C.F.,9,38
+1991,36,C.D. Logroñés,10,38
+1991,36,Real Oviedo C.F.,11,38
+1991,34,Sevilla F.C.,12,38
+1991,34,C.D. Tenerife,13,38
+1991,33,Athletic Club,14,38
+1991,33,C. At. Osasuna,15,38
+1991,32,R.C.D. Espanyol,16,38
+1991,31,R.C. Deportivo,17,38
+1991,28,Cádiz C.F.,18,38
+1991,27,Real Valladolid,19,38
+1991,27,R.C.D. Mallorca,20,38
+1990,57,F.C. Barcelona,1,38
+1990,47,At. de Madrid,2,38
+1990,46,Real Madrid C.F.,3,38
+1990,45,C. At. Osasuna,4,38
+1990,44,Real S. de Gijón,5,38
+1990,42,Real Oviedo C.F.,6,38
+1990,40,Valencia C.F.,7,38
+1990,38,Sevilla F.C.,8,38
+1990,37,Real Valladolid,9,38
+1990,37,C.D. Logroñés,10,38
+1990,37,Real Burgos C.F.,11,38
+1990,36,Athletic Club,12,38
+1990,36,Real Sociedad,13,38
+1990,35,C.D. Tenerife,14,38
+1990,34,R.C.D. Mallorca,15,38
+1990,34,R.C.D. Espanyol,16,38
+1990,33,Real Zaragoza CD,17,38
+1990,29,Cádiz C.F.,18,38
+1990,28,C.D. Castellón,19,38
+1990,25,Real Betis B. S.,20,38
+1989,62,Real Madrid C.F.,1,38
+1989,53,Valencia C.F.,2,38
+1989,51,F.C. Barcelona,3,38
+1989,50,At. de Madrid,4,38
+1989,44,Real Sociedad,5,38
+1989,43,Sevilla F.C.,6,38
+1989,41,C.D. Logroñés,7,38
+1989,40,C. At. Osasuna,8,38
+1989,40,Real Zaragoza CD,9,38
+1989,39,R.C.D. Mallorca,10,38
+1989,39,Real Oviedo C.F.,11,38
+1989,37,Athletic Club,12,38
+1989,34,Real S. de Gijón,13,38
+1989,32,C.D. Castellón,14,38
+1989,30,Cádiz C.F.,15,38
+1989,30,Real Valladolid,16,38
+1989,28,C.D. Málaga,17,38
+1989,26,C.D. Tenerife,18,38
+1989,22,RC Celta de Vigo,19,38
+1989,19,Rayo Vallecano,20,38
+1988,62,Real Madrid C.F.,1,38
+1988,57,F.C. Barcelona,2,38
+1988,49,Valencia C.F.,3,38
+1988,46,At. de Madrid,4,38
+1988,43,Real Zaragoza CD,5,38
+1988,43,Real Valladolid,6,38
+1988,42,Athletic Club,7,38
+1988,39,RC Celta de Vigo,8,38
+1988,38,Sevilla F.C.,9,38
+1988,37,C. At. Osasuna,10,38
+1988,36,Real Sociedad,11,38
+1988,35,Real Oviedo C.F.,12,38
+1988,35,Real S. de Gijón,13,38
+1988,34,C.D. Logroñés,14,38
+1988,33,Cádiz C.F.,15,38
+1988,33,C.D. Málaga,16,38
+1988,30,R.C.D. Espanyol,17,38
+1988,29,Real Betis B. S.,18,38
+1988,24,Real Murcia C.F.,19,38
+1988,15,Elche C.F.,20,38
+1987,62,Real Madrid C.F.,1,38
+1987,51,Real Sociedad,2,38
+1987,48,At. de Madrid,3,38
+1987,46,Athletic Club,4,38
+1987,40,C. At. Osasuna,5,38
+1987,39,F.C. Barcelona,6,38
+1987,39,RC Celta de Vigo,7,38
+1987,38,Real Valladolid,8,38
+1987,38,Real S. de Gijón,9,38
+1987,37,Sevilla F.C.,10,38
+1987,36,Real Zaragoza CD,11,38
+1987,35,Cádiz C.F.,12,38
+1987,33,C.D. Logroñés,13,38
+1987,33,Valencia C.F.,14,38
+1987,33,R.C.D. Espanyol,15,38
+1987,33,Real Betis B. S.,16,38
+1987,31,Real Murcia C.F.,17,38
+1987,30,R.C.D. Mallorca,18,38
+1987,29,C.D. Sabadell,19,38
+1987,29,U.D. Las Palmas,20,38
+1986,66,Real Madrid C.F.,1,44
+1986,63,F.C. Barcelona,2,44
+1986,51,R.C.D. Espanyol,3,44
+1986,47,At. de Madrid,4,44
+1986,47,Real Sociedad,5,44
+1986,45,Real S. de Gijón,6,44
+1986,45,Real Betis B. S.,7,44
+1986,44,Real Zaragoza CD,8,44
+1986,42,Athletic Club,9,44
+1986,42,R.C.D. Mallorca,10,44
+1986,41,Real Murcia C.F.,11,44
+1986,41,U.D. Las Palmas,12,44
+1986,41,Real Valladolid,13,44
+1986,39,Sevilla F.C.,14,44
+1986,38,C.D. Sabadell,15,44
+1986,38,C. At. Osasuna,16,44
+1986,33,Real Racing Club,17,44
+1986,29,Cádiz C.F.,18,44
+1985,56,Real Madrid C.F.,1,34
+1985,45,F.C. Barcelona,2,34
+1985,43,Athletic Club,3,34
+1985,42,Real Zaragoza CD,4,34
+1985,42,At. de Madrid,5,34
+1985,41,Real S. de Gijón,6,34
+1985,39,Real Sociedad,7,34
+1985,35,Real Betis B. S.,8,34
+1985,34,Sevilla F.C.,9,34
+1985,32,Real Valladolid,10,34
+1985,31,R.C.D. Espanyol,11,34
+1985,31,Real Racing Club,12,34
+1985,27,U.D. Las Palmas,13,34
+1985,27,C. At. Osasuna,14,34
+1985,26,Cádiz C.F.,15,34
+1985,25,Valencia C.F.,16,34
+1985,22,Hércules C.F.,17,34
+1985,14,RC Celta de Vigo,18,34
+1984,53,F.C. Barcelona,1,34
+1984,43,At. de Madrid,2,34
+1984,41,Athletic Club,3,34
+1984,41,Real S. de Gijón,4,34
+1984,36,Real Madrid C.F.,5,34
+1984,34,C. At. Osasuna,6,34
+1984,34,Real Sociedad,7,34
+1984,34,R.C.D. Espanyol,8,34
+1984,33,Valencia C.F.,9,34
+1984,33,Real Zaragoza CD,10,34
+1984,32,Real Racing Club,11,34
+1984,31,Sevilla F.C.,12,34
+1984,30,Real Valladolid,13,34
+1984,30,Real Betis B. S.,14,34
+1984,30,Hércules C.F.,15,34
+1984,29,C.D. Málaga,16,34
+1984,26,Elche C.F.,17,34
+1984,22,Real Murcia C.F.,18,34
+1983,49,Athletic Club,1,34
+1983,49,Real Madrid C.F.,2,34
+1983,48,F.C. Barcelona,3,34
+1983,42,At. de Madrid,4,34
+1983,38,Real Betis B. S.,5,34
+1983,37,Real Sociedad,6,34
+1983,35,Real Zaragoza CD,7,34
+1983,34,Sevilla F.C.,8,34
+1983,33,C.D. Málaga,9,34
+1983,33,R.C.D. Espanyol,10,34
+1983,32,Real Murcia C.F.,11,34
+1983,32,Valencia C.F.,12,34
+1983,30,Real S. de Gijón,13,34
+1983,29,Real Valladolid,14,34
+1983,28,C. At. Osasuna,15,34
+1983,22,Cádiz C.F.,16,34
+1983,21,R.C.D. Mallorca,17,34
+1983,20,U.D. Salamanca,18,34
+1982,50,Athletic Club,1,34
+1982,49,Real Madrid C.F.,2,34
+1982,46,At. de Madrid,3,34
+1982,44,F.C. Barcelona,4,34
+1982,42,Sevilla F.C.,5,34
+1982,40,Real Zaragoza CD,6,34
+1982,36,Real Sociedad,7,34
+1982,33,Real S. de Gijón,8,34
+1982,32,R.C.D. Espanyol,9,34
+1982,30,C.D. Málaga,10,34
+1982,30,Real Betis B. S.,11,34
+1982,29,Real Valladolid,12,34
+1982,28,U.D. Salamanca,13,34
+1982,26,C. At. Osasuna,14,34
+1982,25,Valencia C.F.,15,34
+1982,25,U.D. Las Palmas,16,34
+1982,24,RC Celta de Vigo,17,34
+1982,23,Real Racing Club,18,34
+1981,47,Real Sociedad,1,34
+1981,45,F.C. Barcelona,2,34
+1981,44,Real Madrid C.F.,3,34
+1981,40,Athletic Club,4,34
+1981,39,Valencia C.F.,5,34
+1981,36,Real Betis B. S.,6,34
+1981,35,Sevilla F.C.,7,34
+1981,34,At. de Madrid,8,34
+1981,34,Real Valladolid,9,34
+1981,34,Real Zaragoza CD,10,34
+1981,34,C. At. Osasuna,11,34
+1981,32,Real Racing Club,12,34
+1981,32,R.C.D. Espanyol,13,34
+1981,29,Real S. de Gijón,14,34
+1981,29,U.D. Las Palmas,15,34
+1981,29,Cádiz C.F.,16,34
+1981,27,Hércules C.F.,17,34
+1981,12,C.D. Castellón,18,34
+1980,45,Real Sociedad,1,34
+1980,45,Real Madrid C.F.,2,34
+1980,42,At. de Madrid,3,34
+1980,42,Valencia C.F.,4,34
+1980,41,F.C. Barcelona,5,34
+1980,40,Real Betis B. S.,6,34
+1980,38,Real S. de Gijón,7,34
+1980,37,Sevilla F.C.,8,34
+1980,35,Athletic Club,9,34
+1980,34,R.C.D. Espanyol,10,34
+1980,32,C. At. Osasuna,11,34
+1980,31,Real Valladolid,12,34
+1980,30,Hércules C.F.,13,34
+1980,29,Real Zaragoza CD,14,34
+1980,28,U.D. Las Palmas,15,34
+1980,23,Real Murcia C.F.,16,34
+1980,21,U.D. Salamanca,17,34
+1980,19,A.D. Almería,18,34
+1979,53,Real Madrid C.F.,1,34
+1979,52,Real Sociedad,2,34
+1979,39,Real S. de Gijón,3,34
+1979,38,F.C. Barcelona,4,34
+1979,36,Real Betis B. S.,5,34
+1979,36,Valencia C.F.,6,34
+1979,35,Athletic Club,7,34
+1979,34,Sevilla F.C.,8,34
+1979,34,U.D. Salamanca,9,34
+1979,33,Real Zaragoza CD,10,34
+1979,32,U.D. Las Palmas,11,34
+1979,31,At. de Madrid,12,34
+1979,31,A.D. Almería,13,34
+1979,30,R.C.D. Espanyol,14,34
+1979,28,Hércules C.F.,15,34
+1979,26,Rayo Vallecano,16,34
+1979,22,C.D. Málaga,17,34
+1979,20,Burgos C.F.,18,34
+1978,47,Real Madrid C.F.,1,34
+1978,43,Real S. de Gijón,2,34
+1978,41,At. de Madrid,3,34
+1978,41,Real Sociedad,4,34
+1978,38,F.C. Barcelona,5,34
+1978,37,U.D. Las Palmas,6,34
+1978,35,Valencia C.F.,7,34
+1978,35,R.C.D. Espanyol,8,34
+1978,34,Athletic Club,9,34
+1978,34,U.D. Salamanca,10,34
+1978,33,Sevilla F.C.,11,34
+1978,32,Hércules C.F.,12,34
+1978,32,Burgos C.F.,13,34
+1978,30,Real Zaragoza CD,14,34
+1978,29,Rayo Vallecano,15,34
+1978,28,RC Celta de Vigo,16,34
+1978,22,Real Racing Club,17,34
+1978,21,R.C.R. de Huelva,18,34
+1977,47,Real Madrid C.F.,1,34
+1977,41,F.C. Barcelona,2,34
+1977,40,Athletic Club,3,34
+1977,39,Valencia C.F.,4,34
+1977,39,Real S. de Gijón,5,34
+1977,36,At. de Madrid,6,34
+1977,35,U.D. Las Palmas,7,34
+1977,34,Sevilla F.C.,8,34
+1977,34,U.D. Salamanca,9,34
+1977,33,Rayo Vallecano,10,34
+1977,33,Real Sociedad,11,34
+1977,31,Burgos C.F.,12,34
+1977,31,Real Racing Club,13,34
+1977,30,Hércules C.F.,14,34
+1977,30,R.C.D. Espanyol,15,34
+1977,30,Real Betis B. S.,16,34
+1977,27,Elche C.F.,17,34
+1977,22,Cádiz C.F.,18,34
+1976,46,At. de Madrid,1,34
+1976,45,F.C. Barcelona,2,34
+1976,38,Athletic Club,3,34
+1976,36,U.D. Las Palmas,4,34
+1976,36,Real Betis B. S.,5,34
+1976,36,Valencia C.F.,6,34
+1976,36,R.C.D. Espanyol,7,34
+1976,32,Real Sociedad,8,34
+1976,34,Real Madrid C.F.,9,34
+1976,34,Sevilla F.C.,10,34
+1976,33,Elche C.F.,11,34
+1976,32,Hércules C.F.,12,34
+1976,32,U.D. Salamanca,13,34
+1976,32,Burgos C.F.,14,34
+1976,31,Real Racing Club,15,34
+1976,30,Real Zaragoza CD,16,34
+1976,29,RC Celta de Vigo,17,34
+1976,18,C.D. Málaga,18,34
+1975,48,Real Madrid C.F.,1,34
+1975,43,F.C. Barcelona,2,34
+1975,42,At. de Madrid,3,34
+1975,40,R.C.D. Espanyol,4,34
+1975,39,Athletic Club,5,34
+1975,36,Hércules C.F.,6,34
+1975,35,Real Betis B. S.,7,34
+1975,34,Real Sociedad,8,34
+1975,34,U.D. Salamanca,9,34
+1975,32,Valencia C.F.,10,34
+1975,32,Sevilla F.C.,11,34
+1975,32,Real Racing Club,12,34
+1975,30,U.D. Las Palmas,13,34
+1975,30,Real Zaragoza CD,14,34
+1975,28,Elche C.F.,15,34
+1975,27,Real Oviedo C.F.,16,34
+1975,26,Granada C.F.,17,34
+1975,24,Real S. de Gijón,18,34
+1974,50,Real Madrid C.F.,1,34
+1974,38,Real Zaragoza CD,2,34
+1974,37,F.C. Barcelona,3,34
+1974,36,Real Sociedad,4,34
+1974,36,Hércules C.F.,5,34
+1974,35,At. de Madrid,6,34
+1974,35,U.D. Salamanca,7,34
+1974,34,Elche C.F.,8,34
+1974,34,Real Betis B. S.,9,34
+1974,33,Athletic Club,10,34
+1974,33,R.C.D. Espanyol,11,34
+1974,32,Valencia C.F.,12,34
+1974,32,U.D. Las Palmas,13,34
+1974,32,Real S. de Gijón,14,34
+1974,31,Granada C.F.,15,34
+1974,31,C.D. Málaga,16,34
+1974,30,RC Celta de Vigo,17,34
+1974,23,Real Murcia C.F.,18,34
+1973,50,F.C. Barcelona,1,34
+1973,42,At. de Madrid,2,34
+1973,40,Real Zaragoza CD,3,34
+1973,39,Real Sociedad,4,34
+1973,37,Athletic Club,5,34
+1973,36,Granada C.F.,6,34
+1973,36,C.D. Málaga,7,34
+1973,34,Real Madrid C.F.,8,34
+1973,34,R.C.D. Espanyol,9,34
+1973,33,Valencia C.F.,10,34
+1973,33,U.D. Las Palmas,11,34
+1973,30,RC Celta de Vigo,12,34
+1973,30,Real S. de Gijón,13,34
+1973,29,Elche C.F.,14,34
+1973,29,Real Murcia C.F.,15,34
+1973,29,C.D. Castellón,16,34
+1973,27,Real Racing Club,17,34
+1973,24,Real Oviedo C.F.,18,34
+1972,48,At. de Madrid,1,34
+1972,46,F.C. Barcelona,2,34
+1972,45,R.C.D. Espanyol,3,34
+1972,43,Real Madrid C.F.,4,34
+1972,35,C.D. Castellón,5,34
+1972,34,Real Sociedad,6,34
+1972,34,Valencia C.F.,7,34
+1972,34,Real Zaragoza CD,8,34
+1972,33,Athletic Club,9,34
+1972,33,C.D. Málaga,10,34
+1972,31,U.D. Las Palmas,11,34
+1972,30,Real Oviedo C.F.,12,34
+1972,29,Real S. de Gijón,13,34
+1972,29,RC Celta de Vigo,14,34
+1972,29,Granada C.F.,15,34
+1972,28,Real Betis B. S.,16,34
+1972,27,R.C. Deportivo,17,34
+1972,24,Burgos C.F.,18,34
+1971,47,Real Madrid C.F.,1,34
+1971,45,Valencia C.F.,2,34
+1971,43,F.C. Barcelona,3,34
+1971,39,At. de Madrid,4,34
+1971,38,U.D. Las Palmas,5,34
+1971,36,Granada C.F.,6,34
+1971,35,C.D. Málaga,7,34
+1971,34,Real Sociedad,8,34
+1971,34,Athletic Club,9,34
+1971,33,RC Celta de Vigo,10,34
+1971,32,Real S. de Gijón,11,34
+1971,32,R.C.D. Espanyol,12,34
+1971,30,Real Betis B. S.,13,34
+1971,30,R.C. Deportivo,14,34
+1971,29,Burgos C.F.,15,34
+1971,27,Sevilla F.C.,16,34
+1971,25,Córdoba C.F.,17,34
+1971,23,C.D. Sabadell,18,34
+1970,43,Valencia C.F.,1,30
+1970,43,F.C. Barcelona,2,30
+1970,42,At. de Madrid,3,30
+1970,41,Real Madrid C.F.,4,30
+1970,35,Athletic Club,5,30
+1970,35,RC Celta de Vigo,6,30
+1970,32,Sevilla F.C.,7,30
+1970,29,Real Sociedad,8,30
+1970,28,C.D. Málaga,9,30
+1970,28,Granada C.F.,10,30
+1970,25,R.C.D. Espanyol,11,30
+1970,25,Real S. de Gijón,12,30
+1970,21,C.D. Sabadell,13,30
+1970,20,U.D. Las Palmas,14,30
+1970,18,Elche C.F.,15,30
+1970,15,Real Zaragoza CD,16,30
+1969,42,At. de Madrid,1,30
+1969,41,Athletic Club,2,30
+1969,35,Sevilla F.C.,3,30
+1969,35,F.C. Barcelona,4,30
+1969,35,Real Madrid C.F.,5,30
+1969,35,Valencia C.F.,6,30
+1969,33,Real Sociedad,7,30
+1969,33,Real Zaragoza CD,8,30
+1969,27,U.D. Las Palmas,9,30
+1969,27,RC Celta de Vigo,10,30
+1969,26,Elche C.F.,11,30
+1969,26,Granada C.F.,12,30
+1969,25,C.D. Sabadell,13,30
+1969,25,R.C. Deportivo,14,30
+1969,22,R.C.D. Mallorca,15,30
+1969,13,Pontevedra C.F.,16,30
+1968,47,Real Madrid C.F.,1,30
+1968,38,U.D. Las Palmas,2,30
+1968,36,F.C. Barcelona,3,30
+1968,32,C.D. Sabadell,4,30
+1968,31,Valencia C.F.,5,30
+1968,30,At. de Madrid,6,30
+1968,29,Real Sociedad,7,30
+1968,29,Granada C.F.,8,30
+1968,29,Elche C.F.,9,30
+1968,28,R.C. Deportivo,10,30
+1968,28,Athletic Club,11,30
+1968,27,Pontevedra C.F.,12,30
+1968,26,Real Zaragoza CD,13,30
+1968,25,C.D. Málaga,14,30
+1968,24,R.C.D. Espanyol,15,30
+1968,21,Córdoba C.F.,16,30
+1966,47,Real Madrid C.F.,1,30
+1966,42,F.C. Barcelona,2,30
+1966,37,R.C.D. Espanyol,3,30
+1966,35,At. de Madrid,4,30
+1966,34,Real Zaragoza CD,5,30
+1966,32,Valencia C.F.,6,30
+1966,31,Athletic Club,7,30
+1966,30,C.D. Sabadell,8,30
+1966,27,Elche C.F.,9,30
+1966,27,Pontevedra C.F.,10,30
+1966,26,U.D. Las Palmas,11,30
+1966,26,Córdoba C.F.,12,30
+1966,25,Sevilla F.C.,13,30
+1966,23,Granada C.F.,14,30
+1966,20,Hércules C.F.,15,30
+1966,18,R.C. Deportivo,16,30
+1965,44,At. de Madrid,1,30
+1965,43,Real Madrid C.F.,2,30
+1965,38,F.C. Barcelona,3,30
+1965,36,Real Zaragoza CD,4,30
+1965,34,Athletic Club,5,30
+1965,32,Elche C.F.,6,30
+1965,31,Pontevedra C.F.,7,30
+1965,27,Sevilla F.C.,8,30
+1965,27,Valencia C.F.,9,30
+1965,26,U.D. Las Palmas,10,30
+1965,25,Córdoba C.F.,11,30
+1965,24,R.C.D. Espanyol,12,30
+1965,24,C.D. Málaga,13,30
+1965,23,C.D. Sabadell,14,30
+1965,23,R.C.D. Mallorca,15,30
+1965,23,Real Betis B. S.,16,30
+1964,47,Real Madrid C.F.,1,30
+1964,43,At. de Madrid,2,30
+1964,40,Real Zaragoza CD,3,30
+1964,38,Valencia C.F.,4,30
+1964,35,Córdoba C.F.,5,30
+1964,32,F.C. Barcelona,6,30
+1964,32,Athletic Club,7,30
+1964,31,Elche C.F.,8,30
+1964,29,U.D. Las Palmas,9,30
+1964,26,Sevilla F.C.,10,30
+1964,25,R.C.D. Espanyol,11,30
+1964,23,Real Betis B. S.,12,30
+1964,23,Real Murcia C.F.,13,30
+1964,21,Levante U.D.,14,30
+1964,20,Real Oviedo C.F.,15,30
+1964,15,R.C. Deportivo,16,30
+1963,46,Real Madrid C.F.,1,30
+1963,42,F.C. Barcelona,2,30
+1963,37,Real Betis B. S.,3,30
+1963,34,Real Zaragoza CD,4,30
+1963,33,Elche C.F.,5,30
+1963,32,Valencia C.F.,6,30
+1963,29,At. de Madrid,7,30
+1963,29,Athletic Club,8,30
+1963,29,Sevilla F.C.,9,30
+1963,27,Levante U.D.,10,30
+1963,26,Córdoba C.F.,11,30
+1963,26,Real Murcia C.F.,12,30
+1963,25,R.C.D. Espanyol,13,30
+1963,25,Real Oviedo C.F.,14,30
+1963,21,Pontevedra C.F.,15,30
+1963,19,Real Valladolid,16,30
+1962,49,Real Madrid C.F.,1,30
+1962,37,At. de Madrid,2,30
+1962,33,Real Oviedo C.F.,3,30
+1962,33,Real Valladolid,4,30
+1962,32,Real Zaragoza CD,5,30
+1962,31,F.C. Barcelona,6,30
+1962,31,Valencia C.F.,7,30
+1962,29,Elche C.F.,8,30
+1962,28,Real Betis B. S.,9,30
+1962,28,Athletic Club,10,30
+1962,27,Sevilla F.C.,11,30
+1962,27,Córdoba C.F.,12,30
+1962,26,R.C.D. Mallorca,13,30
+1962,25,R.C. Deportivo,14,30
+1962,24,C. At. Osasuna,15,30
+1962,20,C.D. Málaga,16,30
+1961,43,Real Madrid C.F.,1,30
+1961,40,F.C. Barcelona,2,30
+1961,36,At. de Madrid,3,30
+1961,35,Real Zaragoza CD,4,30
+1961,32,Athletic Club,5,30
+1961,31,Sevilla F.C.,6,30
+1961,31,Valencia C.F.,7,30
+1961,29,Elche C.F.,8,30
+1961,28,Real Betis B. S.,9,30
+1961,27,Real Oviedo C.F.,10,30
+1961,27,R.C.D. Mallorca,11,30
+1961,27,C. At. Osasuna,12,30
+1961,26,R.C.D. Espanyol,13,30
+1961,26,Real Racing Club,14,30
+1961,23,Real Sociedad,15,30
+1961,19,C.D. Tenerife,16,30
+1960,52,Real Madrid C.F.,1,30
+1960,40,At. de Madrid,2,30
+1960,33,Real Zaragoza CD,3,30
+1960,32,F.C. Barcelona,4,30
+1960,32,Valencia C.F.,5,30
+1960,30,Real Betis B. S.,6,30
+1960,30,Athletic Club,7,30
+1960,30,Real Sociedad,8,30
+1960,28,R.C.D. Mallorca,9,30
+1960,27,R.C.D. Espanyol,10,30
+1960,27,Sevilla F.C.,11,30
+1960,26,Real Racing Club,12,30
+1960,26,Real Oviedo C.F.,13,30
+1960,25,Elche C.F.,14,30
+1960,25,Real Valladolid,15,30
+1960,17,Granada C.F.,16,30
+1959,46,F.C. Barcelona,1,30
+1959,46,Real Madrid C.F.,2,30
+1959,39,Athletic Club,3,30
+1959,36,Sevilla F.C.,4,30
+1959,33,At. de Madrid,5,30
+1959,33,Real Betis B. S.,6,30
+1959,33,Real Oviedo C.F.,7,30
+1959,30,R.C.D. Espanyol,8,30
+1959,28,Valencia C.F.,9,30
+1959,27,Elche C.F.,10,30
+1959,25,Real Zaragoza CD,11,30
+1959,25,Granada C.F.,12,30
+1959,25,Real Valladolid,13,30
+1959,23,Real Sociedad,14,30
+1959,18,C. At. Osasuna,15,30
+1959,13,U.D. Las Palmas,16,30
+1958,51,F.C. Barcelona,1,30
+1958,47,Real Madrid C.F.,2,30
+1958,36,Athletic Club,3,30
+1958,33,Valencia C.F.,4,30
+1958,32,At. de Madrid,5,30
+1958,32,Real Betis B. S.,6,30
+1958,29,R.C.D. Espanyol,7,30
+1958,28,C. At. Osasuna,8,30
+1958,28,Real Zaragoza CD,9,30
+1958,28,Real Sociedad,10,30
+1958,27,Real Oviedo C.F.,11,30
+1958,26,Sevilla F.C.,12,30
+1958,26,Granada C.F.,13,30
+1958,24,U.D. Las Palmas,14,30
+1958,20,Real S. de Gijón,15,30
+1958,13,RC Celta de Vigo,16,30
+1957,45,Real Madrid C.F.,1,30
+1957,42,At. de Madrid,2,30
+1957,38,F.C. Barcelona,3,30
+1957,36,Valencia C.F.,4,30
+1957,35,C. At. Osasuna,5,30
+1957,32,Athletic Club,6,30
+1957,32,RC Celta de Vigo,7,30
+1957,28,R.C.D. Espanyol,8,30
+1957,27,Real Sociedad,9,30
+1957,25,Sevilla F.C.,10,30
+1957,25,U.D. Las Palmas,11,30
+1957,24,Real S. de Gijón,12,30
+1957,24,Granada C.F.,13,30
+1957,24,Real Zaragoza CD,14,30
+1957,23,Real Valladolid,15,30
+1957,20,Real Jaén C.F.,16,30
+1956,44,Real Madrid C.F.,1,30
+1956,39,Sevilla F.C.,2,30
+1956,39,F.C. Barcelona,3,30
+1956,37,Athletic Club,4,30
+1956,34,At. de Madrid,5,30
+1956,31,C. At. Osasuna,6,30
+1956,30,R.C.D. Espanyol,7,30
+1956,28,Real Valladolid,8,30
+1956,28,Real Zaragoza CD,9,30
+1956,27,U.D. Las Palmas,10,30
+1956,27,Valencia C.F.,11,30
+1956,26,Real Sociedad,12,30
+1956,23,RC Celta de Vigo,13,30
+1956,23,Real Jaén C.F.,14,30
+1956,22,R.C. Deportivo,15,30
+1956,22,Condal,16,30
+1967,42,Real Madrid C.F.,1,30
+1967,39,F.C. Barcelona,2,30
+1967,38,U.D. Las Palmas,3,30
+1967,34,Valencia C.F.,4,30
+1967,33,Real Zaragoza CD,5,30
+1967,33,At. de Madrid,6,30
+1967,32,Athletic Club,7,30
+1967,31,Pontevedra C.F.,8,30
+1967,29,R.C.D. Espanyol,9,30
+1967,27,C.D. Málaga,10,30
+1967,27,Elche C.F.,11,30
+1967,26,C.D. Sabadell,12,30
+1967,25,Córdoba C.F.,13,30
+1967,24,Real Sociedad,14,30
+1967,20,Real Betis B. S.,15,30
+1967,20,Sevilla F.C.,16,30
+1955,48,Athletic Club,1,30
+1955,47,F.C. Barcelona,2,30
+1955,38,Real Madrid C.F.,3,30
+1955,36,Sevilla F.C.,4,30
+1955,33,At. de Madrid,5,30
+1955,32,Valencia C.F.,6,30
+1955,31,R.C.D. Espanyol,7,30
+1955,30,Real Sociedad,8,30
+1955,30,Real Valladolid,9,30
+1955,27,RC Celta de Vigo,10,30
+1955,26,U.D. Las Palmas,11,30
+1955,26,R.C. Deportivo,12,30
+1955,25,Real Murcia C.F.,13,30
+1955,24,C.D. Alavés,14,30
+1955,14,C. y D. Leonesa,15,30
+1955,13,Hércules C.F.,16,30
+1954,46,Real Madrid C.F.,1,30
+1954,41,F.C. Barcelona,2,30
+1954,39,Athletic Club,3,30
+1954,34,Sevilla F.C.,4,30
+1954,33,Valencia C.F.,5,30
+1954,31,Hércules C.F.,6,30
+1954,30,R.C. Deportivo,7,30
+1954,29,At. de Madrid,8,30
+1954,27,Real Valladolid,9,30
+1954,27,RC Celta de Vigo,10,30
+1954,27,C.D. Alavés,11,30
+1954,27,U.D. Las Palmas,12,30
+1954,26,R.C.D. Espanyol,13,30
+1954,24,Real Sociedad,14,30
+1954,20,Real Racing Club,15,30
+1954,19,C.D. Málaga,16,30
+1952,42,F.C. Barcelona,1,30
+1952,40,Valencia C.F.,2,30
+1952,39,Real Madrid C.F.,3,30
+1952,36,R.C.D. Espanyol,4,30
+1952,34,Sevilla F.C.,5,30
+1952,32,Athletic Club,6,30
+1952,30,Real S. de Gijón,7,30
+1952,30,At. de Madrid,8,30
+1952,29,Real Oviedo C.F.,9,30
+1952,28,Real Sociedad,10,30
+1952,27,Real Racing Club,11,30
+1952,25,Real Valladolid,12,30
+1952,25,RC Celta de Vigo,13,30
+1952,24,R.C. Deportivo,14,30
+1952,22,C.D. Málaga,15,30
+1952,17,Real Zaragoza CD,16,30
+1947,37,F.C. Barcelona,1,26
+1947,34,Valencia C.F.,2,26
+1947,33,At. de Madrid,3,26
+1947,31,RC Celta de Vigo,4,26
+1947,29,Sevilla F.C.,5,26
+1947,28,Athletic Club,6,26
+1947,24,Club Gimnàstic,7,26
+1947,24,R.C.D. Espanyol,8,26
+1947,23,Real Oviedo C.F.,9,26
+1947,22,C.D. Alcoyano,10,26
+1947,21,Real Madrid C.F.,11,26
+1947,21,C.D. Sabadell,12,26
+1947,19,Real Sociedad,13,26
+1947,18,Real S. de Gijón,14,26
+1946,34,Valencia C.F.,1,26
+1946,34,Athletic Club,2,26
+1946,32,At. de Madrid,3,26
+1946,31,F.C. Barcelona,4,26
+1946,30,C.D. Sabadell,5,26
+1946,29,Sevilla F.C.,6,26
+1946,27,Real Madrid C.F.,7,26
+1946,27,Real Oviedo C.F.,8,26
+1946,24,RC Celta de Vigo,9,26
+1946,25,Real S. de Gijón,10,26
+1946,19,R.C.D. Espanyol,11,26
+1946,19,Real Murcia C.F.,12,26
+1946,18,R.C. Deportivo,13,26
+1946,13,C.D. Castellón,14,26
+1945,36,Sevilla F.C.,1,26
+1945,35,F.C. Barcelona,2,26
+1945,33,Athletic Club,3,26
+1945,31,Real Madrid C.F.,4,26
+1945,30,Real Oviedo C.F.,5,26
+1945,28,Valencia C.F.,6,26
+1945,26,At. de Madrid,7,26
+1945,26,C.D. Castellón,8,26
+1945,25,Real S. de Gijón,9,26
+1945,21,RC Celta de Vigo,10,26
+1945,20,Real Murcia C.F.,11,26
+1945,19,R.C.D. Espanyol,12,26
+1945,19,C.D. Alcoyano,13,26
+1945,15,Hércules C.F.,14,26
+1944,39,F.C. Barcelona,1,26
+1944,38,Real Madrid C.F.,2,26
+1944,31,At. de Madrid,3,26
+1944,31,Real Oviedo C.F.,4,26
+1944,30,Valencia C.F.,5,26
+1944,30,Athletic Club,6,26
+1944,24,Real S. de Gijón,7,26
+1944,24,C.D. Castellón,8,26
+1944,23,R.C.D. Espanyol,9,26
+1944,22,Sevilla F.C.,10,26
+1944,19,Real Murcia C.F.,11,26
+1944,19,Granada C.F.,12,26
+1944,17,C.D. Sabadell,13,26
+1944,17,R.C. Deportivo,14,26
+1943,40,Valencia C.F.,1,26
+1943,34,At. de Madrid,2,26
+1943,32,Sevilla F.C.,3,26
+1943,29,Real Oviedo C.F.,4,26
+1943,29,C.D. Castellón,5,26
+1943,28,F.C. Barcelona,6,26
+1943,28,Real Madrid C.F.,7,26
+1943,26,Granada C.F.,8,26
+1943,25,C.D. Sabadell,9,26
+1943,25,Athletic Club,10,26
+1943,23,R.C.D. Espanyol,11,26
+1943,19,R.C. Deportivo,12,26
+1943,17,Real Sociedad,13,26
+1943,9,RC Celta de Vigo,14,26
+1942,36,Athletic Club,1,26
+1942,33,Sevilla F.C.,2,26
+1942,32,F.C. Barcelona,3,26
+1942,31,C.D. Castellón,4,26
+1942,30,RC Celta de Vigo,5,26
+1942,28,Real Oviedo C.F.,6,26
+1942,27,Valencia C.F.,7,26
+1942,27,At. de Madrid,8,26
+1942,26,R.C. Deportivo,9,26
+1942,25,Real Madrid C.F.,10,26
+1942,24,R.C.D. Espanyol,11,26
+1942,22,Granada C.F.,12,26
+1942,13,Real Zaragoza CD,13,26
+1942,10,Real Betis B. S.,14,26
+1941,40,Valencia C.F.,1,26
+1941,33,Real Madrid C.F.,2,26
+1941,33,At. de Madrid,3,26
+1941,28,R.C. Deportivo,4,26
+1941,28,RC Celta de Vigo,5,26
+1941,27,Sevilla F.C.,6,26
+1941,27,Athletic Club,7,26
+1941,26,C.D. Castellón,8,26
+1941,26,R.C.D. Espanyol,9,26
+1941,25,Granada C.F.,10,26
+1941,23,Real Oviedo C.F.,11,26
+1941,19,F.C. Barcelona,12,26
+1941,17,Hércules C.F.,13,26
+1941,12,Real Sociedad,14,26
+1940,33,At. de Madrid,1,22
+1940,31,Athletic Club,2,22
+1940,27,Valencia C.F.,3,22
+1940,27,F.C. Barcelona,4,22
+1940,26,Sevilla F.C.,5,22
+1940,24,Real Madrid C.F.,6,22
+1940,22,R.C.D. Espanyol,7,22
+1940,16,Real Oviedo C.F.,8,22
+1940,16,Hércules C.F.,9,22
+1940,13,RC Celta de Vigo,10,22
+1940,14,Real Zaragoza CD,11,22
+1940,13,Real Murcia C.F.,12,22
+1953,40,Real Madrid C.F.,1,30
+1953,36,F.C. Barcelona,2,30
+1953,34,Valencia C.F.,3,30
+1953,34,R.C.D. Espanyol,4,30
+1953,32,Sevilla F.C.,5,30
+1953,32,Athletic Club,6,30
+1953,31,R.C. Deportivo,7,30
+1953,31,Real Racing Club,8,30
+1953,29,At. de Madrid,9,30
+1953,29,Real Sociedad,10,30
+1953,29,RC Celta de Vigo,11,30
+1953,29,Real Valladolid,12,30
+1953,28,C. At. Osasuna,13,30
+1953,28,Real Jaén C.F.,14,30
+1953,22,Real Oviedo C.F.,15,30
+1953,16,Real S. de Gijón,16,30
